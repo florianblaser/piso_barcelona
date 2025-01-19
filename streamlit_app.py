@@ -98,8 +98,7 @@ with row1_col1:
             df_population['Year'] = df_population['Year'].astype(int)
             df_population.sort_values('Year', inplace=True)
             if show_relative_change:
-                cagr = np.nan
-                cagr_bcn = np.nan
+                cagr_text = ''
             else:
                 start_value = df_population[selected_district].iloc[0]
                 end_value = df_population[selected_district].iloc[-1]
@@ -179,8 +178,7 @@ with row1_col2:
             df_unemployment['Year'] = df_unemployment['Year'].astype(int)
             df_unemployment.sort_values('Year', inplace=True)
             if show_relative_change:
-                cagr = np.nan
-                cagr_bcn = np.nan
+                cagr_text = ''
             else:
                 start_value = df_unemployment[selected_district].iloc[0]
                 end_value = df_unemployment[selected_district].iloc[-1]
@@ -261,8 +259,7 @@ with row1_col3:
             df_income.sort_values('Year', inplace=True)
 
             if show_relative_change:
-                cagr = np.nan
-                cagr_bcn = np.nan
+                cagr_text = ''
             else:
                 start_value = df_income[selected_district].iloc[0]
                 end_value = df_income[selected_district].iloc[-1]
@@ -349,8 +346,7 @@ with row2_col1:
             df_transactions.sort_values('Year', inplace=True)
             
             if show_relative_change:
-                cagr = np.nan
-                cagr_bcn = np.nan
+                cagr_text = ''
             else:
                 start_value = df_transactions[selected_district].iloc[0]
                 end_value = df_transactions[selected_district].iloc[-1]
@@ -433,8 +429,7 @@ with row2_col2:
             df_price.sort_values('Year', inplace=True)
 
             if show_relative_change:
-                cagr = np.nan
-                cagr_bcn = np.nan
+                cagr_text = ''
             else:
                 start_value = df_price[selected_district].iloc[0]
                 end_value = df_price[selected_district].iloc[-1]
@@ -515,8 +510,7 @@ with row2_col3:
             df_roi['Year'] = df_roi['Year'].astype(int)
             df_roi.sort_values('Year', inplace=True)
             if show_relative_change:
-                cagr = np.nan
-                cagr_bcn = np.nan
+                cagr_text = ''
             else:
                 start_value = df_roi[selected_district].iloc[0]
                 end_value = df_roi[selected_district].iloc[-1]
