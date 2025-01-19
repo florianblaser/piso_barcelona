@@ -1,0 +1,6 @@
+Link to aplication: https://portaldades.ajuntament.barcelona.cat/ca/estad%C3%ADstiques/f4cbsy3pil
+Title: Mean gross income per person (€)
+Unit: Mean
+Publication date : 2024-11-04T11:45:11Z
+License: CC BY 4.0
+[meta_filters_type]Time: Any; Territory: Municipi, Districte

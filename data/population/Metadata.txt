@@ -1,0 +1,7 @@
+Link to aplication: https://portaldades.ajuntament.barcelona.cat/ca/estad%C3%ADstiques/yzlntdm2fs
+Title: Population
+Unit: Number
+Publication date : 2024-11-07T10:52:17Z
+License: CC BY 4.0
+Note: Values smaller than 5 are indicated with ‘..’.
+[meta_filters_type]Time: dia; Territory: Municipi, Districte, Barri

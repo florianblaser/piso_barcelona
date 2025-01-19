@@ -1,0 +1,685 @@
+Territory,Location type,Property use typology,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024
+Barcelona,Municipi,Residential,4809,6373,10296,11172,14445,14732,13501,13194,9815,13620,16173,13363,10020
+Barcelona,Municipi,Parking,2728,3205,5023,5411,6430,6565,6331,6062,4609,6075,6744,6247,4279
+Barcelona,Municipi,Commercial,377,608,919,1153,1556,1718,1626,1664,1195,1395,1616,1499,1148
+Barcelona,Municipi,Office,174,295,470,565,597,602,647,713,460,511,535,462,324
+Barcelona,Municipi,Touristic,239,353,297,415,280,232,186,162,151,40,50,67,36
+Barcelona,Municipi,Plots/Land,35,52,44,89,100,137,570,416,288,445,278,327,303
+Barcelona,Municipi,Industrial,37,28,60,55,97,176,148,116,58,90,93,80,86
+Barcelona,Municipi,Facilities,30,51,70,84,81,104,153,162,111,124,141,135,84
+Barcelona,Municipi,Not avalaible,579,897,1246,1434,1627,1181,297,172,117,143,197,134,211
+Ciutat Vella,Districte,Residential,459,735,1049,1205,1690,1550,1169,1169,779,1021,1453,1277,939
+Ciutat Vella,Districte,Parking,104,152,179,120,262,155,156,112,78,431,160,177,83
+Ciutat Vella,Districte,Commercial,29,62,95,114,152,93,92,90,77,58,105,115,64
+Ciutat Vella,Districte,Office,34,26,29,68,43,28,50,51,19,17,46,31,16
+Ciutat Vella,Districte,Touristic,21,15,15,20,18,17,14,13,16,6,5,7,5
+Ciutat Vella,Districte,Plots/Land,-,1,1,5,4,4,8,8,1,-,-,1,1
+Ciutat Vella,Districte,Industrial,-,-,-,-,-,-,-,-,-,1,-,-,1
+Ciutat Vella,Districte,Facilities,-,3,5,2,3,2,4,4,21,5,1,4,1
+Ciutat Vella,Districte,Not avalaible,54,111,118,134,276,76,27,9,-,1,5,7,25
+el Raval,Barri,Residential,178,275,421,459,721,747,535,513,340,395,583,527,449
+el Raval,Barri,Parking,11,27,54,42,89,61,78,37,26,36,69,77,30
+el Raval,Barri,Commercial,9,23,26,36,57,28,35,36,28,21,36,44,28
+el Raval,Barri,Office,17,12,5,28,24,8,25,24,11,14,22,18,8
+el Raval,Barri,Touristic,14,1,4,6,5,11,3,2,6,1,1,5,2
+el Raval,Barri,Plots/Land,-,1,-,4,1,1,8,2,-,-,-,1,-
+el Raval,Barri,Facilities,-,1,-,-,2,1,1,2,2,4,1,2,-
+el Raval,Barri,Not avalaible,7,43,66,51,88,15,14,5,-,1,3,4,15
+el Barri Gòtic,Barri,Residential,79,121,184,203,302,231,200,193,123,188,268,213,158
+el Barri Gòtic,Barri,Parking,3,11,12,14,5,21,15,16,19,40,41,41,16
+el Barri Gòtic,Barri,Commercial,6,22,29,34,39,23,18,19,16,9,25,30,9
+el Barri Gòtic,Barri,Office,5,11,21,10,9,9,6,18,3,1,12,9,3
+el Barri Gòtic,Barri,Touristic,4,8,9,8,9,4,6,4,8,3,4,1,1
+el Barri Gòtic,Barri,Facilities,-,-,2,-,-,1,2,2,-,-,-,-,1
+el Barri Gòtic,Barri,Not avalaible,32,39,8,35,98,37,5,-,-,-,2,3,7
+la Barceloneta,Barri,Residential,73,128,174,232,271,206,175,185,130,171,225,197,137
+la Barceloneta,Barri,Parking,1,7,10,18,127,10,16,13,15,332,17,11,14
+la Barceloneta,Barri,Commercial,4,6,13,17,14,8,13,5,19,13,9,7,8
+la Barceloneta,Barri,Office,-,1,-,1,-,1,-,-,-,-,3,-,-
+la Barceloneta,Barri,Touristic,-,-,2,3,2,1,3,2,1,2,-,-,1
+la Barceloneta,Barri,Plots/Land,-,-,-,-,-,2,-,6,1,-,-,-,1
+la Barceloneta,Barri,Industrial,-,-,-,-,-,-,-,-,-,-,-,-,1
+la Barceloneta,Barri,Facilities,-,-,2,1,1,-,-,-,-,-,-,1,-
+la Barceloneta,Barri,Not avalaible,2,5,4,34,7,1,1,4,-,-,-,-,3
+"Sant Pere, Santa Caterina i la Ribera",Barri,Residential,129,211,270,311,396,366,259,278,186,267,377,340,195
+"Sant Pere, Santa Caterina i la Ribera",Barri,Parking,89,107,103,46,41,63,47,46,18,23,33,48,23
+"Sant Pere, Santa Caterina i la Ribera",Barri,Commercial,10,11,27,27,42,34,26,30,14,15,35,34,19
+"Sant Pere, Santa Caterina i la Ribera",Barri,Office,12,2,3,29,10,10,19,9,5,2,9,4,5
+"Sant Pere, Santa Caterina i la Ribera",Barri,Touristic,3,6,-,3,2,1,2,5,1,-,-,1,1
+"Sant Pere, Santa Caterina i la Ribera",Barri,Plots/Land,-,-,1,1,3,1,-,-,-,-,-,-,-
+"Sant Pere, Santa Caterina i la Ribera",Barri,Industrial,-,-,-,-,-,-,-,-,-,1,-,-,-
+"Sant Pere, Santa Caterina i la Ribera",Barri,Facilities,-,2,1,1,-,-,1,-,19,1,-,1,-
+"Sant Pere, Santa Caterina i la Ribera",Barri,Not avalaible,13,24,40,14,83,23,7,-,-,-,-,-,-
+Eixample,Districte,Residential,810,1182,1794,2011,2376,2292,2058,2208,1510,2293,2728,2260,1753
+Eixample,Districte,Parking,566,565,827,1076,1122,1221,1184,1238,909,951,1308,1068,737
+Eixample,Districte,Commercial,85,122,206,280,298,264,274,273,191,170,239,234,204
+Eixample,Districte,Office,60,123,177,201,225,211,205,297,161,212,197,180,113
+Eixample,Districte,Touristic,120,188,118,127,116,83,67,67,38,19,11,43,13
+Eixample,Districte,Plots/Land,1,-,-,-,2,1,1,3,25,1,1,25,-
+Eixample,Districte,Industrial,-,-,2,2,1,-,3,3,2,3,3,4,2
+Eixample,Districte,Facilities,5,15,22,21,24,13,25,46,14,11,23,18,28
+Eixample,Districte,Not avalaible,113,96,212,127,241,271,41,26,14,33,31,39,14
+el Fort Pienc,Barri,Residential,69,110,188,173,243,236,209,244,162,228,233,229,176
+el Fort Pienc,Barri,Parking,99,58,73,139,122,124,162,146,109,91,147,112,105
+el Fort Pienc,Barri,Commercial,8,4,10,17,23,20,33,32,70,21,18,15,12
+el Fort Pienc,Barri,Office,2,9,8,8,22,11,15,31,31,16,16,14,4
+el Fort Pienc,Barri,Touristic,6,7,2,21,31,4,7,2,-,-,1,1,1
+el Fort Pienc,Barri,Industrial,-,-,-,-,-,-,1,-,-,-,-,-,-
+el Fort Pienc,Barri,Facilities,-,-,-,-,-,-,-,1,1,1,-,1,1
+el Fort Pienc,Barri,Not avalaible,22,1,17,10,2,4,15,-,-,-,-,2,-
+la Sagrada Família,Barri,Residential,160,208,317,374,447,435,451,437,323,460,572,397,376
+la Sagrada Família,Barri,Parking,76,101,124,144,139,258,229,161,125,158,255,206,117
+la Sagrada Família,Barri,Commercial,26,32,40,42,57,45,48,35,29,22,33,56,37
+la Sagrada Família,Barri,Office,4,9,19,13,12,21,16,30,12,16,19,29,19
+la Sagrada Família,Barri,Touristic,21,39,24,20,11,21,14,11,10,1,3,4,2
+la Sagrada Família,Barri,Plots/Land,-,-,-,-,1,1,1,3,6,1,-,1,-
+la Sagrada Família,Barri,Industrial,-,-,2,2,-,-,1,2,2,1,-,4,2
+la Sagrada Família,Barri,Facilities,1,1,-,2,2,-,-,1,1,-,2,6,-
+la Sagrada Família,Barri,Not avalaible,18,14,44,8,19,30,2,4,-,3,3,-,8
+la Dreta de l'Eixample,Barri,Residential,135,264,344,401,493,439,345,386,230,392,502,482,365
+la Dreta de l'Eixample,Barri,Parking,89,106,169,313,230,204,180,225,164,157,231,180,120
+la Dreta de l'Eixample,Barri,Commercial,23,35,72,70,66,55,44,53,29,36,53,53,48
+la Dreta de l'Eixample,Barri,Office,38,43,51,101,99,83,76,115,56,105,79,57,48
+la Dreta de l'Eixample,Barri,Touristic,54,69,34,27,41,26,26,16,9,13,2,1,8
+la Dreta de l'Eixample,Barri,Plots/Land,-,-,-,-,-,-,-,-,1,-,1,4,-
+la Dreta de l'Eixample,Barri,Facilities,2,10,7,9,6,2,3,27,2,3,6,2,24
+la Dreta de l'Eixample,Barri,Not avalaible,32,22,79,24,45,52,10,17,3,20,17,21,4
+l'Antiga Esquerra de l'Eixample,Barri,Residential,152,186,308,362,347,365,341,381,233,388,488,400,276
+l'Antiga Esquerra de l'Eixample,Barri,Parking,72,78,120,132,144,159,178,185,134,167,224,159,124
+l'Antiga Esquerra de l'Eixample,Barri,Commercial,14,17,35,52,65,47,43,54,23,35,45,35,39
+l'Antiga Esquerra de l'Eixample,Barri,Office,4,28,23,28,32,45,35,85,32,37,24,21,10
+l'Antiga Esquerra de l'Eixample,Barri,Touristic,20,35,25,30,17,8,5,19,5,1,1,2,-
+l'Antiga Esquerra de l'Eixample,Barri,Plots/Land,1,-,-,-,-,-,-,-,17,-,-,20,-
+l'Antiga Esquerra de l'Eixample,Barri,Industrial,-,-,-,-,1,-,-,-,-,-,2,-,-
+l'Antiga Esquerra de l'Eixample,Barri,Facilities,-,2,4,4,12,8,9,4,4,5,5,5,1
+l'Antiga Esquerra de l'Eixample,Barri,Not avalaible,20,15,47,13,41,50,4,2,11,-,2,14,2
+la Nova Esquerra de l'Eixample,Barri,Residential,182,241,396,432,525,439,414,444,355,517,558,439,323
+la Nova Esquerra de l'Eixample,Barri,Parking,144,148,250,254,381,280,285,266,215,238,319,284,193
+la Nova Esquerra de l'Eixample,Barri,Commercial,4,17,27,63,53,59,69,62,21,30,51,54,42
+la Nova Esquerra de l'Eixample,Barri,Office,10,26,61,46,47,34,53,24,27,27,41,43,19
+la Nova Esquerra de l'Eixample,Barri,Touristic,9,11,9,24,10,8,7,8,6,3,3,35,2
+la Nova Esquerra de l'Eixample,Barri,Plots/Land,-,-,-,-,-,-,-,-,1,-,-,-,-
+la Nova Esquerra de l'Eixample,Barri,Industrial,-,-,-,-,-,-,1,1,-,1,1,-,-
+la Nova Esquerra de l'Eixample,Barri,Facilities,1,2,10,3,1,3,7,4,3,-,4,4,1
+la Nova Esquerra de l'Eixample,Barri,Not avalaible,12,18,13,67,129,134,4,2,-,-,7,1,-
+Sant Antoni,Barri,Residential,112,173,241,269,321,378,298,316,207,308,375,313,237
+Sant Antoni,Barri,Parking,86,74,91,94,106,196,150,255,162,140,132,127,78
+Sant Antoni,Barri,Commercial,10,17,22,36,34,38,37,37,19,26,39,21,26
+Sant Antoni,Barri,Office,2,8,15,5,13,17,10,12,3,11,18,16,13
+Sant Antoni,Barri,Touristic,10,27,24,5,6,16,8,11,8,1,1,-,-
+Sant Antoni,Barri,Plots/Land,-,-,-,-,1,-,-,-,-,-,-,-,-
+Sant Antoni,Barri,Industrial,-,-,-,-,-,-,-,-,-,1,-,-,-
+Sant Antoni,Barri,Facilities,1,-,1,3,3,-,6,9,3,2,6,-,1
+Sant Antoni,Barri,Not avalaible,9,26,12,5,5,1,6,1,-,10,2,1,-
+Sants-Montjuïc,Districte,Residential,506,599,965,1261,1667,1622,1621,1459,1108,1483,1895,1600,1181
+Sants-Montjuïc,Districte,Parking,255,250,296,529,611,656,668,593,452,547,640,686,415
+Sants-Montjuïc,Districte,Commercial,52,59,98,121,154,270,207,185,121,207,235,207,173
+Sants-Montjuïc,Districte,Office,11,26,60,29,30,25,48,50,44,31,41,35,24
+Sants-Montjuïc,Districte,Touristic,33,65,60,29,31,47,20,15,54,2,4,3,3
+Sants-Montjuïc,Districte,Plots/Land,1,6,2,8,10,8,43,13,33,7,7,7,4
+Sants-Montjuïc,Districte,Industrial,16,5,8,6,7,5,22,28,6,6,30,8,3
+Sants-Montjuïc,Districte,Facilities,4,3,2,2,1,7,13,9,7,19,9,11,8
+Sants-Montjuïc,Districte,Not avalaible,101,52,80,107,102,386,40,15,36,2,35,20,69
+el Poble Sec - AEI Parc de Montjuïc,Barri,Residential,114,169,291,367,451,413,410,382,269,388,464,344,297
+el Poble Sec - AEI Parc de Montjuïc,Barri,Parking,82,24,39,112,56,78,80,83,104,69,73,71,56
+el Poble Sec - AEI Parc de Montjuïc,Barri,Commercial,15,18,38,48,38,45,55,47,22,43,40,45,35
+el Poble Sec - AEI Parc de Montjuïc,Barri,Office,-,15,5,3,3,7,21,8,1,2,1,8,3
+el Poble Sec - AEI Parc de Montjuïc,Barri,Touristic,16,43,38,14,15,20,6,8,2,1,1,-,1
+el Poble Sec - AEI Parc de Montjuïc,Barri,Plots/Land,1,1,1,-,2,1,2,1,-,2,-,-,-
+el Poble Sec - AEI Parc de Montjuïc,Barri,Industrial,-,1,-,-,2,1,2,2,-,-,1,1,-
+el Poble Sec - AEI Parc de Montjuïc,Barri,Facilities,-,1,1,-,-,1,1,-,1,1,1,1,2
+el Poble Sec - AEI Parc de Montjuïc,Barri,Not avalaible,3,28,12,19,18,23,13,7,1,-,17,-,8
+la Marina del Prat Vermell - AEI Zona Franca,Barri,Residential,-,1,6,9,25,16,5,7,7,9,9,7,83
+la Marina del Prat Vermell - AEI Zona Franca,Barri,Parking,-,12,-,7,6,9,4,8,36,12,5,5,54
+la Marina del Prat Vermell - AEI Zona Franca,Barri,Commercial,3,1,2,-,1,3,5,1,1,3,3,5,3
+la Marina del Prat Vermell - AEI Zona Franca,Barri,Office,-,-,-,5,2,2,2,20,2,2,1,5,-
+la Marina del Prat Vermell - AEI Zona Franca,Barri,Plots/Land,-,2,-,3,-,-,1,1,2,2,2,2,1
+la Marina del Prat Vermell - AEI Zona Franca,Barri,Industrial,-,4,2,5,5,-,2,18,5,1,11,3,1
+la Marina del Prat Vermell - AEI Zona Franca,Barri,Facilities,-,2,-,-,-,-,-,-,-,8,-,-,-
+la Marina del Prat Vermell - AEI Zona Franca,Barri,Not avalaible,-,-,-,-,-,-,-,-,17,1,-,9,49
+la Marina de Port,Barri,Residential,95,88,134,161,232,253,234,204,160,212,298,272,183
+la Marina de Port,Barri,Parking,37,52,69,72,162,143,97,112,59,115,132,102,73
+la Marina de Port,Barri,Commercial,3,6,6,8,19,10,28,13,9,22,24,28,26
+la Marina de Port,Barri,Office,7,6,14,7,14,3,15,10,34,9,19,3,4
+la Marina de Port,Barri,Touristic,-,-,1,-,-,1,1,-,-,-,-,-,-
+la Marina de Port,Barri,Plots/Land,-,1,1,1,2,1,2,1,-,-,-,-,-
+la Marina de Port,Barri,Industrial,-,-,-,-,-,-,-,-,-,2,-,-,-
+la Marina de Port,Barri,Facilities,1,-,1,-,-,3,1,1,4,3,2,-,-
+la Marina de Port,Barri,Not avalaible,13,3,7,5,6,19,6,-,-,-,-,-,-
+la Font de la Guatlla,Barri,Residential,27,32,39,52,95,74,80,54,47,86,129,90,56
+la Font de la Guatlla,Barri,Parking,5,10,15,32,36,42,46,34,17,42,52,37,23
+la Font de la Guatlla,Barri,Commercial,-,2,2,3,5,10,10,7,5,7,10,8,4
+la Font de la Guatlla,Barri,Office,-,-,-,-,-,1,-,-,1,2,1,-,1
+la Font de la Guatlla,Barri,Touristic,4,3,1,1,-,7,2,1,-,-,1,-,-
+la Font de la Guatlla,Barri,Plots/Land,-,-,-,-,-,2,-,-,-,-,2,-,1
+la Font de la Guatlla,Barri,Industrial,-,-,-,-,-,-,8,-,-,-,8,1,-
+la Font de la Guatlla,Barri,Facilities,-,-,-,-,-,-,-,1,-,-,-,-,1
+la Font de la Guatlla,Barri,Not avalaible,22,2,-,3,3,-,2,-,1,-,16,3,-
+Hostafrancs,Barri,Residential,31,60,72,125,143,151,180,159,105,143,149,154,96
+Hostafrancs,Barri,Parking,35,23,23,43,59,66,70,54,29,45,54,70,33
+Hostafrancs,Barri,Commercial,6,11,7,15,13,18,12,25,14,20,17,17,21
+Hostafrancs,Barri,Office,-,3,4,5,-,1,-,2,-,4,5,2,1
+Hostafrancs,Barri,Touristic,9,5,2,1,4,6,9,1,1,1,-,-,-
+Hostafrancs,Barri,Plots/Land,-,-,-,1,1,2,33,8,22,-,-,-,-
+Hostafrancs,Barri,Industrial,15,-,-,-,-,-,1,1,-,-,-,1,-
+Hostafrancs,Barri,Facilities,-,-,-,-,-,1,2,-,-,1,-,3,1
+Hostafrancs,Barri,Not avalaible,6,1,1,14,7,3,2,-,12,-,-,3,2
+la Bordeta,Barri,Residential,48,51,100,132,127,141,202,150,127,143,163,214,105
+la Bordeta,Barri,Parking,23,21,39,69,43,77,134,54,56,72,70,165,33
+la Bordeta,Barri,Commercial,2,3,17,15,16,95,17,13,8,27,39,32,22
+la Bordeta,Barri,Office,-,-,31,2,3,2,1,1,4,4,10,3,3
+la Bordeta,Barri,Touristic,-,2,1,3,-,3,1,-,-,-,-,-,-
+la Bordeta,Barri,Plots/Land,-,-,-,2,1,2,2,2,2,-,1,3,1
+la Bordeta,Barri,Industrial,1,-,3,-,-,2,2,4,-,-,1,1,1
+la Bordeta,Barri,Facilities,-,-,-,2,-,-,8,-,2,-,2,2,-
+la Bordeta,Barri,Not avalaible,-,1,37,10,15,132,8,-,1,-,-,1,-
+Sants - Badal,Barri,Residential,64,79,112,134,215,248,207,188,169,186,268,196,158
+Sants - Badal,Barri,Parking,28,43,32,49,60,94,100,81,64,71,139,78,51
+Sants - Badal,Barri,Commercial,5,4,9,9,21,32,29,32,28,27,27,25,27
+Sants - Badal,Barri,Office,-,-,3,1,2,6,1,-,1,1,2,11,3
+Sants - Badal,Barri,Touristic,-,-,-,-,-,1,-,1,49,-,1,-,-
+Sants - Badal,Barri,Plots/Land,-,2,-,-,1,-,1,-,2,-,1,-,1
+Sants - Badal,Barri,Industrial,-,-,1,1,-,2,-,3,1,2,8,-,-
+Sants - Badal,Barri,Facilities,2,-,-,-,-,2,1,3,-,-,-,2,1
+Sants - Badal,Barri,Not avalaible,18,1,10,24,19,196,7,-,2,-,2,2,-
+Sants,Barri,Residential,127,119,211,281,379,326,303,315,224,316,415,323,203
+Sants,Barri,Parking,45,65,79,145,189,147,137,167,87,121,115,158,92
+Sants,Barri,Commercial,18,14,17,23,41,57,51,47,34,58,75,47,35
+Sants,Barri,Office,4,2,3,6,6,3,8,9,1,7,2,3,9
+Sants,Barri,Touristic,4,12,17,10,12,9,1,4,2,-,1,3,2
+Sants,Barri,Plots/Land,-,-,-,1,3,-,2,-,5,3,1,2,-
+Sants,Barri,Industrial,-,-,2,-,-,-,7,-,-,1,1,1,1
+Sants,Barri,Facilities,1,-,-,-,1,-,-,4,-,6,4,3,3
+Sants,Barri,Not avalaible,39,16,13,32,34,13,2,8,2,1,-,2,10
+Les Corts,Districte,Residential,248,286,560,543,749,645,597,537,430,579,707,575,417
+Les Corts,Districte,Parking,203,406,461,403,646,494,407,471,357,447,489,427,302
+Les Corts,Districte,Commercial,18,36,43,49,155,82,72,94,47,46,61,75,49
+Les Corts,Districte,Office,7,13,32,41,45,36,54,48,59,31,35,22,27
+Les Corts,Districte,Touristic,6,3,6,8,2,4,4,7,2,2,2,1,-
+Les Corts,Districte,Plots/Land,-,2,4,1,4,4,30,13,54,2,1,7,2
+Les Corts,Districte,Industrial,1,-,-,-,2,15,3,2,2,9,7,1,-
+Les Corts,Districte,Facilities,-,3,7,2,9,5,11,4,3,3,4,11,2
+Les Corts,Districte,Not avalaible,16,140,83,269,98,131,16,-,4,1,1,-,1
+les Corts,Barri,Residential,122,143,312,306,394,367,313,286,259,288,377,332,248
+les Corts,Barri,Parking,101,127,261,230,350,297,215,249,238,245,274,272,163
+les Corts,Barri,Commercial,9,28,28,36,118,48,49,75,24,28,38,54,25
+les Corts,Barri,Office,6,11,27,38,34,27,38,36,52,23,18,18,21
+les Corts,Barri,Touristic,5,1,5,4,1,2,-,3,-,-,-,1,-
+les Corts,Barri,Plots/Land,-,-,1,1,2,1,29,9,8,-,-,-,1
+les Corts,Barri,Industrial,-,-,-,-,2,15,2,-,1,5,2,-,-
+les Corts,Barri,Facilities,-,3,1,1,1,3,3,1,3,-,2,10,2
+les Corts,Barri,Not avalaible,12,139,59,248,87,120,15,-,4,1,-,-,1
+la Maternitat i Sant Ramon,Barri,Residential,75,76,133,146,194,165,197,149,100,185,179,151,99
+la Maternitat i Sant Ramon,Barri,Parking,53,217,105,101,229,118,107,128,67,120,100,84,69
+la Maternitat i Sant Ramon,Barri,Commercial,9,3,9,9,33,29,21,15,21,16,16,20,13
+la Maternitat i Sant Ramon,Barri,Office,1,2,5,2,8,6,12,11,6,7,6,3,4
+la Maternitat i Sant Ramon,Barri,Touristic,-,2,-,4,1,1,4,2,2,-,1,-,-
+la Maternitat i Sant Ramon,Barri,Plots/Land,-,1,-,-,-,-,-,-,44,-,-,-,-
+la Maternitat i Sant Ramon,Barri,Industrial,-,-,-,-,-,-,1,1,1,4,5,-,-
+la Maternitat i Sant Ramon,Barri,Facilities,-,-,-,1,2,1,7,2,-,2,2,1,-
+la Maternitat i Sant Ramon,Barri,Not avalaible,3,-,21,3,10,9,1,-,-,-,-,-,-
+Pedralbes,Barri,Residential,51,67,115,91,161,113,87,102,71,106,151,92,70
+Pedralbes,Barri,Parking,49,62,95,72,67,79,85,94,52,82,115,71,70
+Pedralbes,Barri,Commercial,-,5,6,4,4,5,2,4,2,2,7,1,11
+Pedralbes,Barri,Office,-,-,-,1,3,3,4,1,1,1,11,1,2
+Pedralbes,Barri,Touristic,1,-,1,-,-,1,-,2,-,2,1,-,-
+Pedralbes,Barri,Plots/Land,-,1,3,-,2,3,1,4,2,2,1,7,1
+Pedralbes,Barri,Industrial,1,-,-,-,-,-,-,1,-,-,-,1,-
+Pedralbes,Barri,Facilities,-,-,6,-,6,1,1,1,-,1,-,-,-
+Pedralbes,Barri,Not avalaible,1,1,3,18,1,2,-,-,-,-,1,-,-
+Sarrià-Sant Gervasi,Districte,Residential,533,657,1152,1033,1303,1275,1110,1075,887,1206,1358,1049,790
+Sarrià-Sant Gervasi,Districte,Parking,423,488,863,797,1037,1031,905,1019,704,859,1101,1007,752
+Sarrià-Sant Gervasi,Districte,Commercial,42,60,120,122,132,130,140,166,106,133,154,130,98
+Sarrià-Sant Gervasi,Districte,Office,31,46,73,87,119,130,111,75,93,65,104,102,55
+Sarrià-Sant Gervasi,Districte,Touristic,9,8,9,20,19,20,9,12,9,3,2,3,6
+Sarrià-Sant Gervasi,Districte,Plots/Land,1,5,7,15,20,16,17,47,14,45,22,10,9
+Sarrià-Sant Gervasi,Districte,Industrial,-,-,-,-,-,-,1,-,-,-,-,-,-
+Sarrià-Sant Gervasi,Districte,Facilities,13,17,17,18,25,44,47,55,30,48,27,37,13
+Sarrià-Sant Gervasi,Districte,Not avalaible,52,57,85,158,98,37,57,17,3,9,18,4,-
+"Vallvidrera, el Tibidabo i les Planes",Barri,Residential,16,20,28,22,41,47,56,40,28,40,44,27,19
+"Vallvidrera, el Tibidabo i les Planes",Barri,Parking,3,4,14,6,8,7,3,8,4,5,5,1,2
+"Vallvidrera, el Tibidabo i les Planes",Barri,Commercial,-,-,-,2,1,2,1,-,-,1,1,-,-
+"Vallvidrera, el Tibidabo i les Planes",Barri,Office,-,-,-,-,1,2,1,-,-,-,-,-,-
+"Vallvidrera, el Tibidabo i les Planes",Barri,Touristic,-,-,-,-,-,-,-,-,1,-,-,-,1
+"Vallvidrera, el Tibidabo i les Planes",Barri,Plots/Land,-,-,2,2,11,9,8,6,4,4,12,5,2
+"Vallvidrera, el Tibidabo i les Planes",Barri,Facilities,-,1,-,1,1,-,1,1,-,2,-,-,-
+Sarrià,Barri,Residential,69,104,180,146,184,189,159,167,147,176,219,165,111
+Sarrià,Barri,Parking,75,57,108,83,154,154,133,157,131,153,212,283,113
+Sarrià,Barri,Commercial,7,9,9,16,14,16,21,26,15,22,24,27,13
+Sarrià,Barri,Office,-,1,7,6,7,2,6,6,1,4,12,6,2
+Sarrià,Barri,Touristic,1,1,1,1,-,4,1,4,-,1,-,1,3
+Sarrià,Barri,Plots/Land,-,3,2,4,7,-,3,37,5,32,3,3,1
+Sarrià,Barri,Industrial,-,-,-,-,-,-,1,-,-,-,-,-,-
+Sarrià,Barri,Facilities,1,1,2,2,1,2,7,5,8,12,6,6,4
+Sarrià,Barri,Not avalaible,9,4,4,60,17,1,-,-,-,7,6,3,-
+les Tres Torres,Barri,Residential,49,78,152,108,148,128,106,104,78,105,134,85,89
+les Tres Torres,Barri,Parking,66,81,163,112,226,127,135,151,97,92,168,123,102
+les Tres Torres,Barri,Commercial,2,3,12,5,13,6,3,15,6,13,5,6,7
+les Tres Torres,Barri,Office,2,2,2,2,6,4,8,3,2,5,4,16,5
+les Tres Torres,Barri,Touristic,1,2,-,1,1,3,-,-,-,-,-,-,-
+les Tres Torres,Barri,Plots/Land,-,-,-,8,2,-,-,-,-,-,3,-,2
+les Tres Torres,Barri,Facilities,5,3,1,-,2,15,14,9,5,2,-,9,-
+les Tres Torres,Barri,Not avalaible,6,26,18,40,8,19,2,-,-,-,1,-,-
+Sant Gervasi - la Bonanova,Barri,Residential,110,103,168,158,222,195,156,145,145,190,233,157,119
+Sant Gervasi - la Bonanova,Barri,Parking,71,71,148,162,172,155,153,111,105,141,153,169,116
+Sant Gervasi - la Bonanova,Barri,Commercial,10,7,26,18,19,17,21,29,16,12,16,9,15
+Sant Gervasi - la Bonanova,Barri,Office,1,3,10,5,14,8,9,6,5,4,16,4,9
+Sant Gervasi - la Bonanova,Barri,Touristic,1,-,3,3,-,1,1,1,1,-,1,-,1
+Sant Gervasi - la Bonanova,Barri,Plots/Land,1,-,1,-,-,5,2,4,2,3,-,-,3
+Sant Gervasi - la Bonanova,Barri,Facilities,2,6,2,8,11,15,13,13,7,8,7,6,2
+Sant Gervasi - la Bonanova,Barri,Not avalaible,6,3,6,23,-,1,-,7,1,-,-,-,-
+Sant Gervasi - Galvany,Barri,Residential,185,236,414,400,435,426,413,416,305,454,475,414,294
+Sant Gervasi - Galvany,Barri,Parking,130,188,313,249,294,321,301,375,247,271,368,256,272
+Sant Gervasi - Galvany,Barri,Commercial,16,28,56,66,68,66,55,68,43,53,71,53,35
+Sant Gervasi - Galvany,Barri,Office,27,35,49,59,80,95,79,43,59,39,58,59,35
+Sant Gervasi - Galvany,Barri,Touristic,6,4,4,9,14,10,5,4,7,2,1,2,-
+Sant Gervasi - Galvany,Barri,Plots/Land,-,2,1,-,-,2,3,-,2,-,3,1,1
+Sant Gervasi - Galvany,Barri,Facilities,5,6,12,5,9,9,8,22,9,18,13,13,6
+Sant Gervasi - Galvany,Barri,Not avalaible,6,22,53,5,40,13,38,9,2,1,4,1,-
+el Putxet i el Farró,Barri,Residential,104,116,210,199,273,290,220,203,184,241,253,201,158
+el Putxet i el Farró,Barri,Parking,78,87,117,185,183,267,180,217,120,197,195,175,147
+el Putxet i el Farró,Barri,Commercial,7,13,17,15,17,23,39,28,26,32,37,35,28
+el Putxet i el Farró,Barri,Office,1,5,5,15,11,19,8,17,26,13,14,17,4
+el Putxet i el Farró,Barri,Touristic,-,1,1,6,4,2,2,3,-,-,-,-,1
+el Putxet i el Farró,Barri,Plots/Land,-,-,1,1,-,-,1,-,1,6,1,1,-
+el Putxet i el Farró,Barri,Facilities,-,-,-,2,1,3,4,5,1,6,1,3,1
+el Putxet i el Farró,Barri,Not avalaible,25,2,4,30,33,3,17,1,-,1,7,-,-
+Gràcia,Districte,Residential,352,519,809,812,1045,1092,1051,901,792,1042,1158,958,763
+Gràcia,Districte,Parking,162,271,369,569,422,470,399,337,331,356,468,377,322
+Gràcia,Districte,Commercial,28,92,75,81,139,130,112,95,67,77,112,96,76
+Gràcia,Districte,Office,7,24,32,43,24,30,37,66,17,24,26,14,16
+Gràcia,Districte,Touristic,23,34,33,18,50,21,17,31,18,-,4,8,3
+Gràcia,Districte,Plots/Land,2,-,1,6,13,8,15,93,11,58,7,1,3
+Gràcia,Districte,Industrial,-,-,-,1,1,-,5,9,-,1,-,-,-
+Gràcia,Districte,Facilities,1,6,4,10,7,6,5,17,16,12,13,17,4
+Gràcia,Districte,Not avalaible,49,67,59,54,149,63,9,53,16,2,26,16,2
+Vallcarca i els Penitents,Barri,Residential,38,64,122,95,140,157,149,117,94,142,156,112,104
+Vallcarca i els Penitents,Barri,Parking,42,58,82,40,76,92,62,58,60,61,76,66,74
+Vallcarca i els Penitents,Barri,Commercial,1,44,5,8,16,10,10,9,7,6,8,7,5
+Vallcarca i els Penitents,Barri,Office,-,-,-,3,-,1,6,2,-,2,-,-,2
+Vallcarca i els Penitents,Barri,Touristic,3,4,-,-,1,1,-,-,1,-,-,-,-
+Vallcarca i els Penitents,Barri,Plots/Land,2,-,-,2,7,4,2,2,2,2,1,1,-
+Vallcarca i els Penitents,Barri,Facilities,-,-,-,4,-,-,2,1,-,1,2,-,-
+Vallcarca i els Penitents,Barri,Not avalaible,4,3,-,3,2,1,2,-,-,-,-,3,-
+el Coll,Barri,Residential,15,40,35,42,78,65,48,65,45,71,73,68,38
+el Coll,Barri,Parking,5,26,16,28,38,41,24,27,23,32,29,19,13
+el Coll,Barri,Commercial,3,8,-,2,9,3,11,2,6,9,7,1,8
+el Coll,Barri,Office,-,-,-,-,1,-,2,2,-,1,2,-,1
+el Coll,Barri,Touristic,-,3,3,-,1,-,2,1,-,-,-,-,-
+el Coll,Barri,Plots/Land,-,-,-,1,1,-,-,-,9,55,-,-,-
+el Coll,Barri,Facilities,-,1,-,-,-,-,-,-,-,1,-,-,-
+el Coll,Barri,Not avalaible,1,3,1,-,-,-,-,-,3,-,-,-,-
+la Salut,Barri,Residential,32,54,81,99,110,100,104,99,81,115,121,103,83
+la Salut,Barri,Parking,18,30,42,46,56,42,51,46,37,57,55,51,51
+la Salut,Barri,Commercial,1,1,3,9,9,8,7,4,8,8,16,6,6
+la Salut,Barri,Office,-,2,2,9,1,2,1,4,1,-,4,1,1
+la Salut,Barri,Touristic,-,1,1,2,-,-,-,-,-,-,-,2,-
+la Salut,Barri,Plots/Land,-,-,-,-,-,2,-,2,-,-,2,-,1
+la Salut,Barri,Industrial,-,-,-,1,-,-,4,9,-,-,-,-,-
+la Salut,Barri,Facilities,1,3,-,4,2,2,-,15,16,4,2,13,2
+la Salut,Barri,Not avalaible,3,12,2,-,-,-,-,6,7,-,-,9,1
+la Vila de Gràcia,Barri,Residential,171,231,355,352,484,464,454,387,379,416,486,403,317
+la Vila de Gràcia,Barri,Parking,55,98,86,359,116,155,97,102,104,114,166,125,98
+la Vila de Gràcia,Barri,Commercial,13,26,41,46,66,64,56,48,29,27,49,48,36
+la Vila de Gràcia,Barri,Office,5,13,14,22,15,17,20,34,6,10,14,7,11
+la Vila de Gràcia,Barri,Touristic,19,19,26,11,34,15,10,26,17,-,1,2,3
+la Vila de Gràcia,Barri,Plots/Land,-,-,1,3,3,2,13,81,-,1,1,-,2
+la Vila de Gràcia,Barri,Industrial,-,-,-,-,1,-,1,-,-,1,-,-,-
+la Vila de Gràcia,Barri,Facilities,-,2,3,1,4,4,2,1,-,6,8,4,1
+la Vila de Gràcia,Barri,Not avalaible,31,33,43,35,64,10,3,30,5,1,25,2,-
+el Camp d'en Grassot i Gràcia Nova,Barri,Residential,96,130,216,224,233,306,296,233,193,298,322,272,221
+el Camp d'en Grassot i Gràcia Nova,Barri,Parking,42,59,143,96,136,140,165,104,107,92,142,116,86
+el Camp d'en Grassot i Gràcia Nova,Barri,Commercial,10,13,26,16,39,45,28,32,17,27,32,34,21
+el Camp d'en Grassot i Gràcia Nova,Barri,Office,2,9,16,9,7,10,8,24,10,11,6,6,1
+el Camp d'en Grassot i Gràcia Nova,Barri,Touristic,1,7,3,5,14,5,5,4,-,-,3,4,-
+el Camp d'en Grassot i Gràcia Nova,Barri,Plots/Land,-,-,-,-,2,-,-,8,-,-,3,-,-
+el Camp d'en Grassot i Gràcia Nova,Barri,Facilities,-,-,1,1,1,-,1,-,-,-,1,-,1
+el Camp d'en Grassot i Gràcia Nova,Barri,Not avalaible,10,16,13,16,83,52,4,17,1,1,1,2,1
+Horta-Guinardó,Districte,Residential,377,518,832,981,1378,1503,1416,1364,1044,1415,1694,1311,1020
+Horta-Guinardó,Districte,Parking,210,197,279,406,468,543,568,507,437,512,572,515,378
+Horta-Guinardó,Districte,Commercial,25,36,76,86,118,139,181,177,119,130,173,172,120
+Horta-Guinardó,Districte,Office,3,3,1,8,9,36,16,19,12,11,23,20,16
+Horta-Guinardó,Districte,Touristic,3,7,14,8,6,19,17,6,5,-,-,-,-
+Horta-Guinardó,Districte,Plots/Land,6,19,11,5,20,15,37,105,39,29,72,62,208
+Horta-Guinardó,Districte,Industrial,2,-,-,1,2,3,4,2,1,4,3,-,1
+Horta-Guinardó,Districte,Facilities,4,1,6,16,3,10,13,7,10,13,9,12,5
+Horta-Guinardó,Districte,Not avalaible,19,26,157,68,290,61,90,17,13,40,10,6,27
+el Baix Guinardó,Barri,Residential,86,95,137,159,217,251,191,191,129,207,312,213,131
+el Baix Guinardó,Barri,Parking,34,25,31,55,56,53,92,68,61,61,106,73,48
+el Baix Guinardó,Barri,Commercial,10,7,13,14,23,17,26,29,17,19,26,15,12
+el Baix Guinardó,Barri,Office,-,-,-,2,4,6,6,5,1,-,12,1,4
+el Baix Guinardó,Barri,Touristic,1,4,3,4,1,15,4,2,3,-,-,-,-
+el Baix Guinardó,Barri,Plots/Land,-,-,-,-,1,-,-,-,-,1,1,-,1
+el Baix Guinardó,Barri,Industrial,-,-,-,-,1,1,-,1,-,-,-,-,-
+el Baix Guinardó,Barri,Facilities,1,1,2,3,-,1,3,2,1,1,1,2,3
+el Baix Guinardó,Barri,Not avalaible,1,1,4,2,44,27,13,1,-,-,-,-,-
+Can Baró,Barri,Residential,24,28,44,53,95,114,87,102,71,74,99,96,47
+Can Baró,Barri,Parking,7,11,18,17,23,38,32,31,26,22,22,24,19
+Can Baró,Barri,Commercial,1,1,5,5,5,9,6,9,4,2,9,13,14
+Can Baró,Barri,Office,1,-,-,1,-,12,5,-,-,2,2,1,-
+Can Baró,Barri,Touristic,1,1,1,1,-,2,-,2,2,-,-,-,-
+Can Baró,Barri,Plots/Land,-,-,-,-,1,-,1,-,2,-,-,-,-
+Can Baró,Barri,Facilities,-,-,-,-,-,1,-,-,1,1,1,1,-
+Can Baró,Barri,Not avalaible,-,-,-,-,1,-,7,2,1,-,3,-,-
+el Guinardó,Barri,Residential,74,137,229,270,311,328,361,274,222,299,399,241,236
+el Guinardó,Barri,Parking,31,58,78,114,91,100,99,105,86,112,138,151,119
+el Guinardó,Barri,Commercial,3,9,21,22,28,41,51,47,38,40,50,55,41
+el Guinardó,Barri,Office,-,3,-,1,1,7,3,7,6,4,6,13,6
+el Guinardó,Barri,Touristic,1,1,4,1,1,2,8,1,-,-,-,-,-
+el Guinardó,Barri,Plots/Land,-,2,-,-,-,2,14,54,-,12,29,1,28
+el Guinardó,Barri,Industrial,-,-,-,-,-,1,-,-,1,-,-,-,-
+el Guinardó,Barri,Facilities,-,-,-,7,-,-,6,3,4,3,2,2,-
+el Guinardó,Barri,Not avalaible,8,13,140,31,12,11,56,5,3,29,3,4,3
+la Font d'en Fargues,Barri,Residential,16,41,56,66,82,102,83,82,59,83,81,80,59
+la Font d'en Fargues,Barri,Parking,12,39,24,44,38,61,46,40,40,44,37,41,15
+la Font d'en Fargues,Barri,Commercial,-,1,1,4,1,2,3,18,2,1,2,4,4
+la Font d'en Fargues,Barri,Office,2,-,-,1,1,1,-,3,2,-,1,-,-
+la Font d'en Fargues,Barri,Touristic,-,-,3,-,-,-,1,-,-,-,-,-,-
+la Font d'en Fargues,Barri,Plots/Land,2,-,-,-,1,3,2,6,1,2,12,1,21
+la Font d'en Fargues,Barri,Industrial,-,-,-,-,-,1,-,-,-,-,-,-,-
+la Font d'en Fargues,Barri,Facilities,-,-,2,1,1,-,1,-,1,1,-,1,-
+la Font d'en Fargues,Barri,Not avalaible,3,5,7,1,34,3,6,-,-,-,1,-,-
+el Carmel,Barri,Residential,56,76,113,153,265,293,269,318,205,285,324,277,201
+el Carmel,Barri,Parking,79,23,55,37,72,90,77,116,69,79,78,68,50
+el Carmel,Barri,Commercial,2,9,15,19,26,26,40,27,27,33,38,42,22
+el Carmel,Barri,Office,-,-,1,3,2,2,-,2,2,2,1,-,-
+el Carmel,Barri,Touristic,-,-,-,-,-,-,3,-,-,-,-,-,-
+el Carmel,Barri,Plots/Land,-,1,1,3,7,2,9,3,18,2,9,2,1
+el Carmel,Barri,Industrial,-,-,-,-,-,-,1,-,-,-,1,-,-
+el Carmel,Barri,Facilities,2,-,-,4,1,2,2,2,3,4,2,-,-
+el Carmel,Barri,Not avalaible,2,-,2,1,-,-,2,4,1,2,-,-,9
+la Teixonera,Barri,Residential,31,35,44,54,97,93,99,92,81,138,134,101,88
+la Teixonera,Barri,Parking,11,8,23,24,39,58,46,45,33,49,60,41,34
+la Teixonera,Barri,Commercial,-,1,3,7,6,6,11,11,9,12,12,11,9
+la Teixonera,Barri,Office,-,-,-,-,-,3,2,2,1,1,-,5,2
+la Teixonera,Barri,Touristic,-,-,-,-,1,-,1,-,-,-,-,-,-
+la Teixonera,Barri,Plots/Land,-,-,-,-,4,2,3,21,2,2,2,15,-
+la Teixonera,Barri,Facilities,-,-,-,-,-,-,-,-,-,-,-,4,1
+la Teixonera,Barri,Not avalaible,1,4,2,26,196,2,-,1,1,8,3,-,-
+Sant Genís dels Agudells,Barri,Residential,14,8,15,30,38,41,46,66,43,33,43,43,44
+Sant Genís dels Agudells,Barri,Parking,1,1,3,2,6,18,12,14,11,20,15,18,8
+Sant Genís dels Agudells,Barri,Commercial,1,2,1,1,5,7,7,2,1,2,4,3,1
+Sant Genís dels Agudells,Barri,Touristic,-,-,1,-,-,-,-,-,-,-,-,-,-
+Sant Genís dels Agudells,Barri,Plots/Land,4,1,2,1,1,1,5,-,2,1,5,39,-
+Sant Genís dels Agudells,Barri,Facilities,1,-,-,1,-,4,1,-,-,-,-,-,-
+Sant Genís dels Agudells,Barri,Not avalaible,-,1,-,-,-,-,-,-,-,-,-,-,-
+Montbau,Barri,Residential,13,17,27,34,41,45,65,38,43,51,50,34,26
+Montbau,Barri,Parking,-,1,2,4,9,11,14,5,7,7,11,6,1
+Montbau,Barri,Commercial,1,-,1,-,1,3,3,3,6,-,2,4,2
+Montbau,Barri,Office,-,-,-,-,1,-,-,-,-,-,-,-,4
+Montbau,Barri,Facilities,-,-,-,-,1,-,-,-,-,2,-,-,-
+la Vall d'Hebron,Barri,Residential,14,8,26,17,18,29,24,23,14,26,36,30,16
+la Vall d'Hebron,Barri,Parking,5,6,3,60,9,29,45,11,36,25,14,17,9
+la Vall d'Hebron,Barri,Commercial,-,-,-,3,4,3,4,6,3,3,-,2,1
+la Vall d'Hebron,Barri,Plots/Land,-,-,-,-,-,-,-,-,-,-,1,-,-
+la Clota,Barri,Residential,1,4,17,9,20,5,4,4,3,1,3,2,11
+la Clota,Barri,Parking,-,-,-,-,-,-,-,-,-,-,-,-,12
+la Clota,Barri,Plots/Land,-,-,1,-,-,1,2,2,2,1,-,-,152
+la Clota,Barri,Not avalaible,1,-,-,-,-,-,-,-,-,-,-,-,12
+Horta,Barri,Residential,48,69,124,136,194,202,187,174,174,218,213,194,161
+Horta,Barri,Parking,30,25,42,49,125,85,105,72,68,93,91,76,63
+Horta,Barri,Commercial,7,6,16,11,19,25,30,25,12,18,30,23,14
+Horta,Barri,Office,-,-,-,-,-,5,-,-,-,2,1,-,-
+Horta,Barri,Touristic,-,1,2,2,3,-,-,1,-,-,-,-,-
+Horta,Barri,Plots/Land,-,15,7,1,5,4,1,19,12,8,13,4,5
+Horta,Barri,Industrial,2,-,-,1,1,-,3,1,-,4,2,-,1
+Horta,Barri,Facilities,-,-,2,-,-,2,-,-,-,1,3,2,1
+Horta,Barri,Not avalaible,3,2,2,7,3,18,6,4,7,1,-,2,3
+Nou Barris,Districte,Residential,433,511,761,974,1188,1421,1355,1460,1017,1566,1666,1340,1010
+Nou Barris,Districte,Parking,137,173,157,277,297,295,381,370,294,395,391,358,270
+Nou Barris,Districte,Commercial,35,33,64,77,105,155,159,190,126,215,167,164,128
+Nou Barris,Districte,Office,3,1,3,9,18,19,12,7,7,19,5,20,9
+Nou Barris,Districte,Touristic,1,-,-,-,4,-,2,-,-,-,1,-,2
+Nou Barris,Districte,Plots/Land,1,6,6,7,9,27,34,12,8,7,11,18,5
+Nou Barris,Districte,Industrial,-,1,-,-,2,2,-,3,-,1,-,4,1
+Nou Barris,Districte,Facilities,1,1,1,2,1,5,7,7,3,6,4,10,18
+Nou Barris,Districte,Not avalaible,6,77,20,184,134,31,4,7,1,1,-,3,-
+Vilapicina i la Torre Llobeta,Barri,Residential,62,76,130,128,164,194,186,212,113,219,223,173,126
+Vilapicina i la Torre Llobeta,Barri,Parking,18,25,52,126,73,68,73,80,81,117,75,93,86
+Vilapicina i la Torre Llobeta,Barri,Commercial,8,8,19,24,12,35,43,37,19,44,24,20,23
+Vilapicina i la Torre Llobeta,Barri,Office,3,1,2,2,-,4,2,1,2,11,1,3,3
+Vilapicina i la Torre Llobeta,Barri,Touristic,-,-,-,-,1,-,2,-,-,-,-,-,1
+Vilapicina i la Torre Llobeta,Barri,Plots/Land,-,1,-,2,4,8,23,4,2,-,-,12,1
+Vilapicina i la Torre Llobeta,Barri,Facilities,1,1,-,-,-,1,1,1,-,-,1,-,1
+Vilapicina i la Torre Llobeta,Barri,Not avalaible,2,29,-,-,-,1,-,5,-,1,-,1,-
+Porta,Barri,Residential,72,90,91,127,182,178,188,158,121,192,192,134,110
+Porta,Barri,Parking,38,45,34,38,80,66,75,75,49,66,68,60,34
+Porta,Barri,Commercial,5,12,21,7,19,26,23,27,21,23,20,27,10
+Porta,Barri,Office,-,-,1,3,17,12,4,2,2,3,1,2,2
+Porta,Barri,Touristic,1,-,-,-,2,-,-,-,-,-,1,-,1
+Porta,Barri,Plots/Land,-,2,2,2,-,6,2,1,-,2,6,3,1
+Porta,Barri,Industrial,-,-,-,-,2,1,-,1,-,-,-,2,-
+Porta,Barri,Facilities,-,-,-,2,-,1,2,1,-,1,1,1,13
+Porta,Barri,Not avalaible,-,-,7,49,32,9,1,2,-,-,-,-,-
+el Turó de la Peira,Barri,Residential,54,51,49,87,104,152,137,140,109,142,182,144,119
+el Turó de la Peira,Barri,Parking,9,11,6,13,15,26,27,28,18,50,37,29,23
+el Turó de la Peira,Barri,Commercial,2,1,1,4,5,9,12,14,17,37,22,10,10
+el Turó de la Peira,Barri,Office,-,-,-,-,-,-,-,2,2,1,-,-,1
+el Turó de la Peira,Barri,Plots/Land,-,-,-,-,-,-,3,1,-,-,-,-,-
+el Turó de la Peira,Barri,Industrial,-,1,-,-,-,-,-,-,-,1,-,-,-
+el Turó de la Peira,Barri,Facilities,-,-,-,-,-,-,1,1,-,1,-,1,-
+el Turó de la Peira,Barri,Not avalaible,-,-,2,-,-,-,-,-,-,-,-,-,-
+Can Peguera,Barri,Residential,1,1,-,-,-,6,2,5,3,3,5,6,2
+Can Peguera,Barri,Parking,-,1,-,2,5,4,2,3,3,2,-,3,-
+Can Peguera,Barri,Commercial,2,-,2,-,1,4,-,-,-,1,-,-,-
+la Guineueta,Barri,Residential,35,41,72,83,81,103,87,81,63,89,98,83,62
+la Guineueta,Barri,Parking,8,15,20,18,28,25,46,48,33,34,44,30,29
+la Guineueta,Barri,Commercial,1,5,4,6,3,2,9,6,4,5,8,16,3
+la Guineueta,Barri,Office,-,-,-,2,-,-,-,-,-,-,-,-,1
+la Guineueta,Barri,Plots/Land,-,-,1,-,-,-,-,-,-,-,-,-,-
+la Guineueta,Barri,Facilities,-,-,-,-,-,-,-,-,2,-,-,4,-
+la Guineueta,Barri,Not avalaible,-,30,9,-,-,-,-,-,-,-,-,-,-
+Canyelles,Barri,Residential,20,8,36,29,46,40,34,42,37,33,48,44,21
+Canyelles,Barri,Parking,1,1,2,1,2,4,5,4,3,2,6,4,1
+Canyelles,Barri,Commercial,1,-,-,1,1,10,4,3,4,3,3,6,4
+Canyelles,Barri,Office,-,-,-,-,-,1,-,-,-,1,-,-,-
+Canyelles,Barri,Plots/Land,-,-,-,-,-,1,-,-,1,4,2,1,2
+Canyelles,Barri,Industrial,-,-,-,-,-,1,-,1,-,-,-,-,-
+Canyelles,Barri,Facilities,-,-,-,-,-,-,-,-,1,-,-,-,-
+les Roquetes,Barri,Residential,27,49,86,127,141,161,172,192,142,143,202,189,109
+les Roquetes,Barri,Parking,4,7,8,10,16,21,37,30,33,20,31,24,19
+les Roquetes,Barri,Commercial,2,-,2,6,10,12,15,23,9,12,21,16,11
+les Roquetes,Barri,Office,-,-,-,-,-,-,-,-,-,1,1,2,-
+les Roquetes,Barri,Plots/Land,-,1,-,1,1,1,2,2,-,-,2,1,-
+les Roquetes,Barri,Industrial,-,-,-,-,-,-,-,1,-,-,-,2,-
+les Roquetes,Barri,Facilities,-,-,-,-,-,-,2,2,-,-,1,-,1
+les Roquetes,Barri,Not avalaible,2,2,-,44,11,-,-,-,-,-,-,-,-
+Verdun,Barri,Residential,37,44,77,86,90,143,114,140,97,137,154,144,85
+Verdun,Barri,Parking,13,17,17,23,32,31,34,25,24,28,44,30,21
+Verdun,Barri,Commercial,1,1,4,7,18,10,5,17,15,36,17,13,14
+Verdun,Barri,Office,-,-,-,-,1,-,-,-,-,1,-,1,-
+Verdun,Barri,Plots/Land,-,-,-,-,-,1,-,4,-,-,-,-,-
+Verdun,Barri,Facilities,-,-,-,-,-,-,-,-,-,2,-,2,1
+Verdun,Barri,Not avalaible,-,13,-,1,-,-,2,-,1,-,-,-,-
+la Prosperitat,Barri,Residential,62,79,112,158,186,215,211,230,164,224,289,197,195
+la Prosperitat,Barri,Parking,14,42,13,29,36,39,68,58,42,53,56,60,39
+la Prosperitat,Barri,Commercial,9,5,7,15,28,35,35,56,30,27,45,42,50
+la Prosperitat,Barri,Office,-,-,-,2,-,1,6,-,-,-,2,12,2
+la Prosperitat,Barri,Touristic,-,-,-,-,1,-,-,-,-,-,-,-,-
+la Prosperitat,Barri,Plots/Land,-,-,-,-,1,-,-,-,-,1,-,-,-
+la Prosperitat,Barri,Facilities,-,-,1,-,1,3,1,2,-,1,-,1,1
+la Prosperitat,Barri,Not avalaible,1,3,2,90,88,-,1,-,-,-,-,2,-
+la Trinitat Nova,Barri,Residential,20,33,49,64,84,98,85,95,65,82,106,95,57
+la Trinitat Nova,Barri,Parking,30,6,3,14,5,4,8,12,5,8,22,20,13
+la Trinitat Nova,Barri,Commercial,1,1,2,1,3,5,6,3,2,2,3,3,1
+la Trinitat Nova,Barri,Plots/Land,-,-,-,-,3,6,2,-,-,-,-,-,-
+la Trinitat Nova,Barri,Not avalaible,-,-,-,-,-,21,-,-,-,-,-,-,-
+Torre Baró,Barri,Residential,12,4,11,8,8,16,11,16,20,203,19,11,20
+Torre Baró,Barri,Parking,1,-,1,-,-,-,-,-,-,8,1,3,-
+Torre Baró,Barri,Commercial,-,-,2,4,3,2,1,-,-,17,-,3,-
+Torre Baró,Barri,Office,-,-,-,-,-,1,-,-,-,-,-,-,-
+Torre Baró,Barri,Plots/Land,-,2,1,2,-,4,2,-,4,-,1,1,1
+Torre Baró,Barri,Facilities,-,-,-,-,-,-,-,-,-,1,-,1,-
+Torre Baró,Barri,Not avalaible,1,-,-,-,3,-,-,-,-,-,-,-,-
+Ciutat Meridiana,Barri,Residential,31,34,46,70,90,103,119,142,76,95,142,114,101
+Ciutat Meridiana,Barri,Parking,1,2,-,2,2,4,5,7,3,6,4,1,3
+Ciutat Meridiana,Barri,Commercial,3,-,-,2,1,4,6,4,5,8,4,6,2
+Ciutat Meridiana,Barri,Office,-,-,-,-,-,-,-,2,1,1,-,-,-
+Ciutat Meridiana,Barri,Plots/Land,1,-,-,-,-,-,-,-,-,-,-,-,-
+Ciutat Meridiana,Barri,Facilities,-,-,-,-,-,-,-,-,-,-,1,-,1
+Vallbona,Barri,Residential,-,1,2,7,12,12,9,7,7,4,6,6,3
+Vallbona,Barri,Parking,-,1,1,1,3,3,1,-,-,1,3,1,2
+Vallbona,Barri,Commercial,-,-,-,-,1,1,-,-,-,-,-,2,-
+Vallbona,Barri,Plots/Land,-,-,2,-,-,-,-,-,1,-,-,-,-
+Vallbona,Barri,Industrial,-,-,-,-,-,-,-,-,-,-,-,-,1
+Sant Andreu (District),-,Residential,353,412,724,804,1085,1168,1154,1119,882,1150,1208,1107,808
+Sant Andreu (District),-,Parking,137,193,327,355,546,535,543,462,374,572,548,610,347
+Sant Andreu (District),-,Commercial,16,43,51,91,119,270,200,181,198,164,152,152,109
+Sant Andreu (District),-,Office,1,3,20,36,20,38,16,18,11,28,21,10,26
+Sant Andreu (District),-,Touristic,-,1,2,2,2,-,2,-,4,1,2,1,-
+Sant Andreu (District),-,Plots/Land,2,7,5,5,7,10,262,28,48,47,22,112,9
+Sant Andreu (District),-,Industrial,7,4,13,11,13,12,21,10,8,10,14,11,6
+Sant Andreu (District),-,Facilities,1,1,1,4,4,9,25,6,5,1,15,9,4
+Sant Andreu (District),-,Not avalaible,57,169,91,83,43,25,3,11,11,34,12,17,51
+la Trinitat Vella,Barri,Residential,19,19,32,46,89,104,112,101,96,94,103,132,108
+la Trinitat Vella,Barri,Parking,3,4,8,16,14,14,35,23,13,28,42,31,15
+la Trinitat Vella,Barri,Commercial,3,3,1,4,4,9,21,11,13,9,16,15,6
+la Trinitat Vella,Barri,Office,-,-,-,2,-,-,1,-,-,-,1,1,-
+la Trinitat Vella,Barri,Touristic,-,-,1,-,-,-,-,-,-,1,-,-,-
+la Trinitat Vella,Barri,Plots/Land,-,-,-,1,1,-,1,-,-,1,-,-,-
+la Trinitat Vella,Barri,Industrial,-,-,-,-,-,-,-,-,-,1,-,-,-
+la Trinitat Vella,Barri,Facilities,-,-,-,-,-,3,-,1,-,-,4,1,-
+la Trinitat Vella,Barri,Not avalaible,-,-,-,1,-,-,-,-,-,-,6,1,-
+Baró de Viver,Barri,Residential,2,5,8,13,21,17,15,7,21,10,29,20,16
+Baró de Viver,Barri,Parking,-,-,1,-,6,10,7,7,3,5,7,4,3
+Baró de Viver,Barri,Commercial,-,-,-,1,1,4,3,4,2,3,2,2,2
+el Bon Pastor,Barri,Residential,25,30,41,68,71,93,112,104,74,114,113,89,77
+el Bon Pastor,Barri,Parking,10,12,14,27,29,44,56,28,24,28,27,29,34
+el Bon Pastor,Barri,Commercial,3,4,2,13,9,11,12,13,13,10,10,17,10
+el Bon Pastor,Barri,Office,1,-,1,1,1,4,2,-,1,1,4,-,2
+el Bon Pastor,Barri,Touristic,-,-,-,-,-,-,-,-,1,-,1,-,-
+el Bon Pastor,Barri,Plots/Land,-,4,1,4,1,2,1,2,2,5,-,2,-
+el Bon Pastor,Barri,Industrial,7,4,13,11,11,12,21,9,8,8,14,11,5
+el Bon Pastor,Barri,Facilities,-,-,-,-,-,1,-,-,-,-,-,-,-
+el Bon Pastor,Barri,Not avalaible,-,-,1,-,3,9,2,-,-,-,-,-,5
+Sant Andreu (Neighbourhood),-,Residential,142,167,289,305,402,433,445,436,311,436,401,390,235
+Sant Andreu (Neighbourhood),-,Parking,70,99,142,154,232,299,239,215,173,250,267,228,155
+Sant Andreu (Neighbourhood),-,Commercial,7,17,22,24,47,170,109,61,50,34,59,56,37
+Sant Andreu (Neighbourhood),-,Office,-,3,2,8,16,17,-,10,2,4,5,5,1
+Sant Andreu (Neighbourhood),-,Touristic,-,-,1,-,1,-,1,-,1,-,1,1,-
+Sant Andreu (Neighbourhood),-,Plots/Land,1,2,4,-,2,8,255,25,34,34,15,92,1
+Sant Andreu (Neighbourhood),-,Industrial,-,-,-,-,2,-,-,1,-,-,-,-,1
+Sant Andreu (Neighbourhood),-,Facilities,-,-,-,2,3,1,22,2,3,1,1,-,1
+Sant Andreu (Neighbourhood),-,Not avalaible,51,62,71,79,34,12,-,10,3,28,4,7,22
+la Sagrera,Barri,Residential,65,70,171,158,156,207,187,204,161,194,215,179,136
+la Sagrera,Barri,Parking,31,38,108,107,180,87,125,96,91,98,104,172,60
+la Sagrera,Barri,Commercial,-,9,7,14,14,27,15,14,4,9,22,22,10
+la Sagrera,Barri,Office,-,-,15,21,1,10,5,7,2,4,5,1,4
+la Sagrera,Barri,Touristic,-,-,-,1,1,-,-,-,-,-,-,-,-
+la Sagrera,Barri,Plots/Land,1,-,-,-,3,-,5,1,12,5,3,10,-
+la Sagrera,Barri,Facilities,1,-,-,2,1,2,1,-,2,-,3,4,1
+la Sagrera,Barri,Not avalaible,5,103,5,-,1,-,-,-,1,6,-,8,15
+el Congrés i els Indians,Barri,Residential,42,59,80,94,121,137,117,121,91,137,148,135,101
+el Congrés i els Indians,Barri,Parking,4,14,20,22,25,27,23,26,18,72,42,98,26
+el Congrés i els Indians,Barri,Commercial,3,4,13,17,21,21,21,33,14,18,29,27,29
+el Congrés i els Indians,Barri,Office,-,-,-,3,1,4,4,-,1,2,2,2,13
+el Congrés i els Indians,Barri,Touristic,-,-,-,1,-,-,-,-,-,-,-,-,-
+el Congrés i els Indians,Barri,Plots/Land,-,-,-,-,-,-,-,-,-,-,-,7,1
+el Congrés i els Indians,Barri,Industrial,-,-,-,-,-,-,-,-,-,1,-,-,-
+el Congrés i els Indians,Barri,Facilities,-,-,-,-,-,1,1,1,-,-,-,4,1
+el Congrés i els Indians,Barri,Not avalaible,1,4,13,2,4,3,1,1,1,-,-,-,1
+Navas,Barri,Residential,58,62,103,120,225,177,166,146,128,165,199,162,135
+Navas,Barri,Parking,19,26,34,29,60,54,58,67,52,91,59,48,54
+Navas,Barri,Commercial,-,6,6,18,23,28,19,45,102,81,14,13,15
+Navas,Barri,Office,-,-,2,1,1,3,4,1,5,17,4,1,6
+Navas,Barri,Touristic,-,1,-,-,-,-,1,-,2,-,-,-,-
+Navas,Barri,Plots/Land,-,1,-,-,-,-,-,-,-,2,4,1,7
+Navas,Barri,Facilities,-,1,1,-,-,1,1,2,-,-,7,-,1
+Navas,Barri,Not avalaible,-,-,1,1,1,1,-,-,6,-,2,1,8
+Sant Martí,Districte,Residential,738,954,1650,1548,1964,2164,1970,1902,1366,1865,2306,1886,1339
+Sant Martí,Districte,Parking,531,510,1265,879,1019,1165,1120,953,673,1005,1067,1022,673
+Sant Martí,Districte,Commercial,47,65,91,132,184,185,189,213,143,195,218,154,127
+Sant Martí,Districte,Office,17,30,43,43,64,49,98,82,37,73,37,28,22
+Sant Martí,Districte,Touristic,23,32,40,183,32,21,34,11,5,7,19,1,4
+Sant Martí,Districte,Plots/Land,21,6,7,37,11,44,123,94,55,249,135,84,62
+Sant Martí,Districte,Industrial,11,18,37,34,69,139,89,59,39,55,36,52,72
+Sant Martí,Districte,Facilities,1,1,5,7,4,3,3,7,2,6,36,6,1
+Sant Martí,Districte,Not avalaible,112,102,341,250,196,100,10,17,19,20,59,22,22
+el Camp de l'Arpa del Clot,Barri,Residential,113,159,203,255,360,396,360,311,255,330,403,302,201
+el Camp de l'Arpa del Clot,Barri,Parking,44,48,76,74,97,149,150,118,85,87,119,129,72
+el Camp de l'Arpa del Clot,Barri,Commercial,5,14,11,17,28,40,35,33,23,22,26,27,19
+el Camp de l'Arpa del Clot,Barri,Office,1,-,9,5,2,4,36,14,7,-,9,3,10
+el Camp de l'Arpa del Clot,Barri,Touristic,-,5,3,6,19,5,1,-,1,-,-,-,-
+el Camp de l'Arpa del Clot,Barri,Plots/Land,-,-,1,2,2,13,-,9,3,-,4,22,18
+el Camp de l'Arpa del Clot,Barri,Industrial,-,-,-,-,-,-,-,-,-,-,-,1,-
+el Camp de l'Arpa del Clot,Barri,Facilities,-,1,-,-,-,-,-,1,-,3,2,-,-
+el Camp de l'Arpa del Clot,Barri,Not avalaible,8,6,14,2,2,68,-,11,-,6,4,5,4
+el Clot,Barri,Residential,53,63,126,140,171,191,212,175,140,182,185,148,140
+el Clot,Barri,Parking,22,42,45,66,75,59,83,77,56,82,83,83,79
+el Clot,Barri,Commercial,3,5,13,9,15,20,28,19,18,12,43,20,15
+el Clot,Barri,Office,-,1,-,4,3,2,2,-,-,1,3,-,-
+el Clot,Barri,Touristic,2,1,2,-,-,1,-,1,-,-,-,-,-
+el Clot,Barri,Plots/Land,-,-,-,-,-,-,3,-,-,23,52,-,-
+el Clot,Barri,Industrial,-,-,-,-,-,-,1,-,-,1,2,1,-
+el Clot,Barri,Facilities,-,-,-,-,-,-,1,-,2,-,26,3,-
+el Clot,Barri,Not avalaible,2,-,6,6,13,1,2,2,1,3,10,1,-
+el Parc i la Llacuna del Poblenou,Barri,Residential,23,42,78,90,101,128,69,90,72,114,253,148,88
+el Parc i la Llacuna del Poblenou,Barri,Parking,27,26,192,62,104,89,77,90,57,89,255,132,57
+el Parc i la Llacuna del Poblenou,Barri,Commercial,6,8,15,16,20,12,11,21,19,26,12,7,9
+el Parc i la Llacuna del Poblenou,Barri,Office,-,-,3,12,8,8,4,4,8,51,3,-,2
+el Parc i la Llacuna del Poblenou,Barri,Touristic,2,3,5,1,1,2,25,6,3,1,4,1,2
+el Parc i la Llacuna del Poblenou,Barri,Plots/Land,-,1,2,1,3,2,4,4,9,91,10,5,1
+el Parc i la Llacuna del Poblenou,Barri,Industrial,9,7,26,14,40,73,38,28,15,25,23,32,24
+el Parc i la Llacuna del Poblenou,Barri,Facilities,-,-,2,4,-,-,1,1,-,-,-,-,-
+el Parc i la Llacuna del Poblenou,Barri,Not avalaible,13,29,94,11,48,-,1,2,1,6,26,1,-
+la Vila Olímpica del Poblenou,Barri,Residential,30,21,57,52,41,67,51,68,33,55,46,64,34
+la Vila Olímpica del Poblenou,Barri,Parking,126,33,136,150,173,113,170,123,68,131,90,79,42
+la Vila Olímpica del Poblenou,Barri,Commercial,2,1,7,9,11,14,18,14,7,52,33,11,9
+la Vila Olímpica del Poblenou,Barri,Office,6,-,-,6,30,2,5,-,2,2,-,5,-
+la Vila Olímpica del Poblenou,Barri,Touristic,-,-,1,1,2,1,2,-,-,-,-,-,-
+la Vila Olímpica del Poblenou,Barri,Plots/Land,-,-,1,2,-,4,-,1,-,-,1,-,-
+la Vila Olímpica del Poblenou,Barri,Industrial,-,4,3,3,10,12,5,2,2,5,2,3,3
+la Vila Olímpica del Poblenou,Barri,Facilities,-,-,-,-,-,-,-,1,-,1,2,2,-
+la Vila Olímpica del Poblenou,Barri,Not avalaible,1,-,-,-,-,1,-,-,1,-,-,1,-
+el Poblenou,Barri,Residential,111,201,269,276,392,303,313,313,215,292,330,303,235
+el Poblenou,Barri,Parking,76,101,234,230,263,294,232,143,138,247,156,176,143
+el Poblenou,Barri,Commercial,15,18,19,29,54,37,36,57,32,21,28,33,32
+el Poblenou,Barri,Office,5,4,6,11,16,24,7,27,7,13,8,5,6
+el Poblenou,Barri,Touristic,12,11,8,5,5,6,2,3,1,2,-,-,-
+el Poblenou,Barri,Plots/Land,4,2,3,29,5,10,104,21,36,129,54,50,3
+el Poblenou,Barri,Industrial,1,3,4,7,13,45,26,16,10,3,6,2,2
+el Poblenou,Barri,Facilities,-,-,-,-,1,1,-,2,-,-,5,-,-
+el Poblenou,Barri,Not avalaible,54,57,183,42,17,8,4,2,16,3,19,13,2
+Diagonal Mar i el Front Marítim del Poblenou,Barri,Residential,76,89,362,117,114,157,118,116,54,120,144,120,86
+Diagonal Mar i el Front Marítim del Poblenou,Barri,Parking,131,130,432,131,119,191,133,137,85,107,174,137,85
+Diagonal Mar i el Front Marítim del Poblenou,Barri,Commercial,2,1,8,6,10,5,7,6,6,6,12,10,4
+Diagonal Mar i el Front Marítim del Poblenou,Barri,Office,2,4,5,2,3,-,2,5,3,1,-,1,-
+Diagonal Mar i el Front Marítim del Poblenou,Barri,Touristic,4,4,3,2,4,5,2,1,-,-,1,-,-
+Diagonal Mar i el Front Marítim del Poblenou,Barri,Plots/Land,-,1,-,-,-,-,-,-,-,-,-,-,36
+Diagonal Mar i el Front Marítim del Poblenou,Barri,Facilities,-,-,2,-,-,-,-,-,-,-,-,-,-
+Diagonal Mar i el Front Marítim del Poblenou,Barri,Not avalaible,4,3,7,104,92,15,-,-,-,-,-,-,16
+el Besòs i el Maresme,Barri,Residential,74,101,175,179,222,248,218,239,150,230,287,268,178
+el Besòs i el Maresme,Barri,Parking,5,8,7,16,16,9,19,13,14,28,35,24,11
+el Besòs i el Maresme,Barri,Commercial,3,2,3,10,4,1,4,11,9,11,19,11,12
+el Besòs i el Maresme,Barri,Office,-,-,-,-,-,-,37,19,7,4,1,2,1
+el Besòs i el Maresme,Barri,Touristic,3,4,10,167,1,1,1,-,-,3,14,-,-
+el Besòs i el Maresme,Barri,Plots/Land,-,-,-,-,-,1,1,51,-,3,-,-,-
+el Besòs i el Maresme,Barri,Industrial,-,1,1,2,-,-,2,1,-,-,-,1,-
+el Besòs i el Maresme,Barri,Facilities,-,-,-,-,1,-,-,-,-,1,1,-,1
+el Besòs i el Maresme,Barri,Not avalaible,1,2,-,-,-,-,-,-,-,-,-,-,-
+Provençals del Poblenou,Barri,Residential,88,76,101,106,163,217,184,173,108,135,177,126,101
+Provençals del Poblenou,Barri,Parking,71,93,69,85,110,154,156,150,59,115,78,159,48
+Provençals del Poblenou,Barri,Commercial,3,7,2,7,14,16,13,15,6,10,10,11,2
+Provençals del Poblenou,Barri,Office,1,21,20,3,2,3,3,8,2,-,3,9,1
+Provençals del Poblenou,Barri,Touristic,-,2,3,1,-,-,1,-,-,1,-,-,1
+Provençals del Poblenou,Barri,Plots/Land,17,2,-,3,1,14,7,4,5,3,11,3,-
+Provençals del Poblenou,Barri,Industrial,-,1,1,6,4,6,16,9,7,17,1,3,4
+Provençals del Poblenou,Barri,Facilities,1,-,-,1,-,1,-,1,-,1,-,-,-
+Provençals del Poblenou,Barri,Not avalaible,22,-,34,83,24,7,2,-,-,-,-,-,-
+Sant Martí de Provençals,Barri,Residential,88,114,147,166,196,210,194,196,138,191,232,202,125
+Sant Martí de Provençals,Barri,Parking,12,18,46,34,36,57,50,54,44,54,35,57,18
+Sant Martí de Provençals,Barri,Commercial,4,6,5,17,15,18,18,12,8,19,16,14,10
+Sant Martí de Provençals,Barri,Office,-,-,-,-,-,1,2,1,-,-,3,-,1
+Sant Martí de Provençals,Barri,Touristic,-,1,2,-,-,-,-,-,-,-,-,-,1
+Sant Martí de Provençals,Barri,Plots/Land,-,-,-,-,-,-,-,-,-,-,3,1,2
+Sant Martí de Provençals,Barri,Facilities,-,-,-,-,1,1,1,1,-,-,-,1,-
+Sant Martí de Provençals,Barri,Not avalaible,1,2,3,1,-,-,1,-,-,2,-,1,-
+la Verneda i la Pau,Barri,Residential,82,88,132,167,204,247,251,221,201,216,249,205,151
+la Verneda i la Pau,Barri,Parking,17,11,28,31,26,50,50,48,67,65,42,46,118
+la Verneda i la Pau,Barri,Commercial,4,3,8,12,13,22,19,25,15,16,19,10,15
+la Verneda i la Pau,Barri,Office,2,-,-,-,-,5,-,4,1,1,7,3,1
+la Verneda i la Pau,Barri,Touristic,-,1,3,-,-,-,-,-,-,-,-,-,-
+la Verneda i la Pau,Barri,Plots/Land,-,-,-,-,-,-,4,4,2,-,-,3,2
+la Verneda i la Pau,Barri,Industrial,1,2,2,2,2,3,1,3,5,4,2,9,39
+la Verneda i la Pau,Barri,Facilities,-,-,1,2,1,-,-,-,-,-,-,-,-
+la Verneda i la Pau,Barri,Not avalaible,6,3,-,1,-,-,-,-,-,-,-,-,-

@@ -1,0 +1,7 @@
+Link to aplication: https://portaldades.ajuntament.barcelona.cat/ca/estad%C3%ADstiques/5ibudgqbrb
+Title: Average price per area (€/m²) of housing rent
+Unit: Mean
+Publication date : 2024-10-09T11:45:24Z
+License: CC BY 4.0
+Note: The information on districts and neighborhoods is prepared from those homes that have been geolocated. Barcelona total may not match with the sum of sales of the districts or neighborhoods.Information is not published for areas where there are fewer than six registered contracts.
+[meta_filters_type]Time: Any; Territory: Municipi, Districte, Barri

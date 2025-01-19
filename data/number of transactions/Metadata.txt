@@ -1,0 +1,6 @@
+Link to aplication: https://portaldades.ajuntament.barcelona.cat/ca/estad%C3%ADstiques/onixz2gr3f
+Title: Number of real estate property transactions by property use typology
+Unit: Number
+Publication date : 2024-11-02T07:22:47Z
+License: CC BY 4.0
+[meta_filters_type]Time: Any; Territory: Municipi, Districte, Barri

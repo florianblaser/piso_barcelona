@@ -1,0 +1,6 @@
+Link to aplication: https://portaldades.ajuntament.barcelona.cat/ca/estad%C3%ADstiques/swx6ul5nve
+Title: Number of people registered as unemployed
+Unit: Number
+Publication date : 2024-11-12T08:34:34Z
+License: CC BY 4.0
+[meta_filters_type]Time: Dia; Territory: Municipi, Districte, Barri
